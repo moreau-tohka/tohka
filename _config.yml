@@ -61,14 +61,14 @@ footer-text: Copyright (c) 2020 Moreau All right reserve.
 # 评论，注意，请不要同时添加多种不同的评论区
 
 # 输入Disqus shortname，即可添加评论区
-disqus: tohka #shortname
+disqus:  #shortname
 
 # 输入Gitalk相关设定，即可添加评论区
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: 38944f9d224d896a094d
+  clientSecret: 013e3b3bbf811b2d9267c01cc03d4efe4f8b6c90
+  repo: tohka
+  owner: moreau-tohka
 
 # 输入Google Analytics web tracking code
 google_analytics: UA-159569079-1
